@@ -22,7 +22,7 @@ echo "
 <h3><font color='magenta'>--- ۩ PREMIUM SERVER ۩ ---
 </font></h3>
 
-<h3><font color='green'>--- ۩ SERVER BY ④ ⍤⃝🌻④ ۩ ---
+<h3><font color='green'>--- ۩ SERVER BY F④U ۩ ---
 </font></h3>
 
 <h4><font color='cyan'>Telegram Channel >> https://t.me/Pmttg
