@@ -17,17 +17,14 @@ none='\e[0m'
 
 sed -i 's/#\?AllowTcpForwarding .*/AllowTcpForwarding yes/' /etc/ssh/sshd_config && sed -i 's/#\?PasswordAuthentication .*/PasswordAuthentication yes/' /etc/ssh/sshd_config && sed -i 's/#\?Banner .*/Banner \/etc\/ssh\/gcp_404/' /etc/ssh/sshd_config && /etc/init.d/ssh restart;
 echo "
-<h3><font color='red'>▁ ▂ ▄ ▅ ▆ ▇ █   🎀  𝐹𝟦𝒰  🎀   █ ▇ ▆ ▅ ▄ ▂ ▁
-</font></h3>
-
-<h3><font color='green'>--- ۩ SERVER BY 千➃Ｕ ۩ ---
-</font></h3>
-
-<h4><font color='blue'>Telegram Channel >> https://t.me/outline_gcp_key
+<h4><font color='yellow'>╰☆☆ıllıllııllıll 🐼𝒻➃𝐮🐼 llıllııllıllı☆☆╮
 </font></h4>
 
-<h3><font color='red'>▁ ▂ ▄ ▅ ▆ ▇ █   🎀  𝐹𝟦𝒰  🎀   █ ▇ ▆ ▅ ▄ ▂ ▁
-</font></h3>" | tee /etc/ssh/gcp_404 >/dev/null
+<h6><font color='cyan'>░▒▓▆▅▃▂▁𝐅𝐑𝐄𝐄 𝐅𝐎𝐑 𝐘𝐎𝐔▁▂▃▅▆▓▒░
+</font></h6>
+
+<h4><font color='yellow'>╰☆☆ıllıllııllıll 🐼𝒻➃𝐮🐼 llıllııllıllı☆☆╮
+</font></h4>" | tee /etc/ssh/gcp_404 >/dev/null
 useradd "F4U" --shell=/bin/false -M
 echo "F4U:QpMzF4UzMpQ" | chpasswd
 
@@ -44,4 +41,4 @@ echo -e "${cyan}          \|__|        \|_______|              \|__|            
 echo -e "${green}Contact the developer https://t.me/BlackXtraYLK for more information              ${plain}"
 echo -e "${yellow}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ${plain}"
 
-echo -e "${cyan} 千➃Ｕ ${plain}"
+echo -e "${cyan} ❚█══FREE FOR YOU══█❚ ${plain}"
